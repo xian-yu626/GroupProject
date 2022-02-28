@@ -39,6 +39,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     'homepage',
+    'login',
+    'register',
+    'TESTPAGE',
+    'dogWalkers',
+    'dogTrainers',
+    'vetHelp',
 ]
 
 MIDDLEWARE = [

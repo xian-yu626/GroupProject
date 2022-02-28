@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class DogwalkersConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'dogwalkers'
+    name = 'dogWalkers'
