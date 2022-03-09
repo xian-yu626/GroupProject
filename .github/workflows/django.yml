@@ -29,4 +29,5 @@ jobs:
         pip install django-resized
     - name: Run Tests
       run: |
+        cd GroupProject
         python manage.py test
